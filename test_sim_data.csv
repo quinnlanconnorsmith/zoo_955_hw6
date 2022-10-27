@@ -1,41 +1,41 @@
-date,replicate,treatment,burrow_count,mean_burrow_diameter,set
-10/16/2022,1,Control,5,18.448,south
-10/16/2022,1,Compact,8,20.28,south
-10/16/2022,1,Rake,7,22.43571429,south
-10/16/2022,1,Marine Debris,4,15.3225,south
-10/16/2022,2,Control,9,26.76444444,south
-10/16/2022,2,Compact,8,27.3125,south
-10/16/2022,2,Rake,6,25.11833333,south
-10/16/2022,2,Marine Debris,5,15.272,south
-10/16/2022,3,Control,7,19.52714286,south
-10/16/2022,3,Compact,7,16.50285714,south
-10/16/2022,3,Rake,14,17.13714286,south
-10/16/2022,3,Marine Debris,12,15.445,south
-10/16/2022,4,Control,9,23.84222222,south
-10/16/2022,4,Compact,17,19.67176471,south
-10/16/2022,4,Rake,6,17.78,south
-10/16/2022,4,Marine Debris,6,23.875,south
-10/16/2022,5,Control,9,16.24333333,south
-10/16/2022,5,Compact,5,15.738,south
-10/16/2022,5,Rake,6,11.61666667,south
-10/16/2022,5,Marine Debris,4,24.31,south
-10/16/2022,6,Control,10,29.374,north
-10/16/2022,6,Compact,8,26.05875,north
-10/16/2022,6,Rake,8,24.405,north
-10/16/2022,6,Marine Debris,8,24.21375,north
-10/16/2022,7,Control,10,22.163,north
-10/16/2022,7,Compact,7,27.66714286,north
-10/16/2022,7,Rake,15,33.53266667,north
-10/16/2022,7,Marine Debris,10,19.367,north
-10/16/2022,8,Control,7,34.77714286,north
-10/16/2022,8,Compact,5,33.53,north
-10/16/2022,8,Rake,5,23.156,north
-10/16/2022,8,Marine Debris,4,22.29,north
-10/16/2022,9,Control,7,14.70285714,north
-10/16/2022,9,Compact,4,34.6325,north
-10/16/2022,9,Rake,8,20.37375,north
-10/16/2022,9,Marine Debris,9,25.81888889,north
-10/16/2022,10,Control,14,19.54214286,north
-10/16/2022,10,Compact,6,18.13666667,north
-10/16/2022,10,Rake,11,19.40818182,north
-10/16/2022,10,Marine Debris,5,23.444,north
+date,replicate,treatment,burrow_count
+10/16/2022,a,Control,5
+10/16/2022,a,Compact,8
+10/16/2022,a,Rake,7
+10/16/2022,a,Marine Debris,4
+10/16/2022,b,Control,9
+10/16/2022,b,Compact,8
+10/16/2022,b,Rake,6
+10/16/2022,b,Marine Debris,5
+10/16/2022,c,Control,7
+10/16/2022,c,Compact,7
+10/16/2022,c,Rake,14
+10/16/2022,c,Marine Debris,12
+10/16/2022,d,Control,9
+10/16/2022,d,Compact,17
+10/16/2022,d,Rake,6
+10/16/2022,d,Marine Debris,6
+10/16/2022,e,Control,9
+10/16/2022,e,Compact,5
+10/16/2022,e,Rake,6
+10/16/2022,e,Marine Debris,4
+10/16/2022,f,Control,10
+10/16/2022,f,Compact,8
+10/16/2022,f,Rake,8
+10/16/2022,f,Marine Debris,8
+10/16/2022,g,Control,10
+10/16/2022,g,Compact,7
+10/16/2022,g,Rake,15
+10/16/2022,g,Marine Debris,10
+10/16/2022,h,Control,7
+10/16/2022,h,Compact,5
+10/16/2022,h,Rake,5
+10/16/2022,h,Marine Debris,4
+10/16/2022,i,Control,7
+10/16/2022,i,Compact,4
+10/16/2022,i,Rake,8
+10/16/2022,i,Marine Debris,9
+10/16/2022,j,Control,14
+10/16/2022,j,Compact,6
+10/16/2022,j,Rake,11
+10/16/2022,j,Marine Debris,5
