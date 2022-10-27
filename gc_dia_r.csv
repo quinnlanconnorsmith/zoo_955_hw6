@@ -1,0 +1,991 @@
+date,day,replicate,treatment,burrow_diameter,set,day_rep
+10/16/2022,1,1,Control,22.52,south,1_1
+10/16/2022,1,1,Control,26.85,south,1_1
+10/16/2022,1,1,Control,15.89,south,1_1
+10/16/2022,1,1,Control,7.4,south,1_1
+10/16/2022,1,1,Control,19.58,south,1_1
+10/16/2022,1,1,Compact ,12.6,south,1_1
+10/16/2022,1,1,Compact ,10.49,south,1_1
+10/16/2022,1,1,Compact ,17.52,south,1_1
+10/16/2022,1,1,Compact ,28.92,south,1_1
+10/16/2022,1,1,Compact ,32.38,south,1_1
+10/16/2022,1,1,Compact ,22.62,south,1_1
+10/16/2022,1,1,Compact ,27.19,south,1_1
+10/16/2022,1,1,Compact ,10.52,south,1_1
+10/16/2022,1,1,Rake,14.39,south,1_1
+10/16/2022,1,1,Rake,22.09,south,1_1
+10/16/2022,1,1,Rake,32.16,south,1_1
+10/16/2022,1,1,Rake,29.37,south,1_1
+10/16/2022,1,1,Rake,24.4,south,1_1
+10/16/2022,1,1,Rake,11.78,south,1_1
+10/16/2022,1,1,Rake,22.86,south,1_1
+10/16/2022,1,1,Marine Debris,7.4,south,1_1
+10/16/2022,1,1,Marine Debris,19.77,south,1_1
+10/16/2022,1,1,Marine Debris,26.62,south,1_1
+10/16/2022,1,1,Marine Debris,7.5,south,1_1
+10/16/2022,1,2,Control,33.68,south,1_2
+10/16/2022,1,2,Control,20.92,south,1_2
+10/16/2022,1,2,Control,19.07,south,1_2
+10/16/2022,1,2,Control,40.9,south,1_2
+10/16/2022,1,2,Control,51.35,south,1_2
+10/16/2022,1,2,Control,7.99,south,1_2
+10/16/2022,1,2,Control,12.3,south,1_2
+10/16/2022,1,2,Control,35.46,south,1_2
+10/16/2022,1,2,Control,19.21,south,1_2
+10/16/2022,1,2,Compact ,32,south,1_2
+10/16/2022,1,2,Compact ,13.11,south,1_2
+10/16/2022,1,2,Compact ,26.53,south,1_2
+10/16/2022,1,2,Compact ,10.67,south,1_2
+10/16/2022,1,2,Compact ,23.12,south,1_2
+10/16/2022,1,2,Compact ,28.49,south,1_2
+10/16/2022,1,2,Compact ,42.28,south,1_2
+10/16/2022,1,2,Compact ,42.3,south,1_2
+10/16/2022,1,2,Rake,24.28,south,1_2
+10/16/2022,1,2,Rake,39.95,south,1_2
+10/16/2022,1,2,Rake,21.44,south,1_2
+10/16/2022,1,2,Rake,14.76,south,1_2
+10/16/2022,1,2,Rake,26.78,south,1_2
+10/16/2022,1,2,Rake,23.5,south,1_2
+10/16/2022,1,2,Marine Debris,8.39,south,1_2
+10/16/2022,1,2,Marine Debris,10.52,south,1_2
+10/16/2022,1,2,Marine Debris,36.26,south,1_2
+10/16/2022,1,2,Marine Debris,12.1,south,1_2
+10/16/2022,1,2,Marine Debris,9.09,south,1_2
+10/16/2022,1,3,Control,22.85,south,1_3
+10/16/2022,1,3,Control,23.65,south,1_3
+10/16/2022,1,3,Control,8.53,south,1_3
+10/16/2022,1,3,Control,14.16,south,1_3
+10/16/2022,1,3,Control,29.29,south,1_3
+10/16/2022,1,3,Control,12.95,south,1_3
+10/16/2022,1,3,Control,25.26,south,1_3
+10/16/2022,1,3,Compact ,14.09,south,1_3
+10/16/2022,1,3,Compact ,8.08,south,1_3
+10/16/2022,1,3,Compact ,9.39,south,1_3
+10/16/2022,1,3,Compact ,11.08,south,1_3
+10/16/2022,1,3,Compact ,4.02,south,1_3
+10/16/2022,1,3,Compact ,29.29,south,1_3
+10/16/2022,1,3,Compact ,39.57,south,1_3
+10/16/2022,1,3,Rake,19.05,south,1_3
+10/16/2022,1,3,Rake,10.75,south,1_3
+10/16/2022,1,3,Rake,31.57,south,1_3
+10/16/2022,1,3,Rake,22.38,south,1_3
+10/16/2022,1,3,Rake,9.64,south,1_3
+10/16/2022,1,3,Rake,8.12,south,1_3
+10/16/2022,1,3,Rake,7.49,south,1_3
+10/16/2022,1,3,Rake,9.44,south,1_3
+10/16/2022,1,3,Rake,8.21,south,1_3
+10/16/2022,1,3,Rake,9.52,south,1_3
+10/16/2022,1,3,Rake,24.95,south,1_3
+10/16/2022,1,3,Rake,46.49,south,1_3
+10/16/2022,1,3,Rake,22.38,south,1_3
+10/16/2022,1,3,Rake,9.93,south,1_3
+10/16/2022,1,3,Marine Debris,12.72,south,1_3
+10/16/2022,1,3,Marine Debris,7.54,south,1_3
+10/16/2022,1,3,Marine Debris,7.15,south,1_3
+10/16/2022,1,3,Marine Debris,29.01,south,1_3
+10/16/2022,1,3,Marine Debris,29.05,south,1_3
+10/16/2022,1,3,Marine Debris,20.03,south,1_3
+10/16/2022,1,3,Marine Debris,14.1,south,1_3
+10/16/2022,1,3,Marine Debris,8.67,south,1_3
+10/16/2022,1,3,Marine Debris,8.37,south,1_3
+10/16/2022,1,3,Marine Debris,21.99,south,1_3
+10/16/2022,1,3,Marine Debris,16.62,south,1_3
+10/16/2022,1,3,Marine Debris,10.09,south,1_3
+10/16/2022,1,4,Control,49.38,south,1_4
+10/16/2022,1,4,Control,19.36,south,1_4
+10/16/2022,1,4,Control,29.91,south,1_4
+10/16/2022,1,4,Control,10.91,south,1_4
+10/16/2022,1,4,Control,31.31,south,1_4
+10/16/2022,1,4,Control,34.81,south,1_4
+10/16/2022,1,4,Control,15.44,south,1_4
+10/16/2022,1,4,Control,6.16,south,1_4
+10/16/2022,1,4,Control,17.3,south,1_4
+10/16/2022,1,4,Compact ,8.6,south,1_4
+10/16/2022,1,4,Compact ,6.77,south,1_4
+10/16/2022,1,4,Compact ,6.28,south,1_4
+10/16/2022,1,4,Compact ,26.25,south,1_4
+10/16/2022,1,4,Compact ,10.52,south,1_4
+10/16/2022,1,4,Compact ,8.3,south,1_4
+10/16/2022,1,4,Compact ,8.6,south,1_4
+10/16/2022,1,4,Compact ,31.5,south,1_4
+10/16/2022,1,4,Compact ,11.27,south,1_4
+10/16/2022,1,4,Compact ,13.37,south,1_4
+10/16/2022,1,4,Compact ,13.43,south,1_4
+10/16/2022,1,4,Compact ,40.69,south,1_4
+10/16/2022,1,4,Compact ,60.92,south,1_4
+10/16/2022,1,4,Compact ,16.02,south,1_4
+10/16/2022,1,4,Compact ,16.02,south,1_4
+10/16/2022,1,4,Compact ,26.68,south,1_4
+10/16/2022,1,4,Compact ,29.2,south,1_4
+10/16/2022,1,4,Rake,11.65,south,1_4
+10/16/2022,1,4,Rake,9.1,south,1_4
+10/16/2022,1,4,Rake,14.82,south,1_4
+10/16/2022,1,4,Rake,10.04,south,1_4
+10/16/2022,1,4,Rake,29.94,south,1_4
+10/16/2022,1,4,Rake,31.13,south,1_4
+10/16/2022,1,4,Marine Debris,12.06,south,1_4
+10/16/2022,1,4,Marine Debris,13.89,south,1_4
+10/16/2022,1,4,Marine Debris,19.97,south,1_4
+10/16/2022,1,4,Marine Debris,57.37,south,1_4
+10/16/2022,1,4,Marine Debris,13.26,south,1_4
+10/16/2022,1,4,Marine Debris,26.7,south,1_4
+10/16/2022,1,5,Control,7.51,south,1_5
+10/16/2022,1,5,Control,6.38,south,1_5
+10/16/2022,1,5,Control,31.53,south,1_5
+10/16/2022,1,5,Control,13.45,south,1_5
+10/16/2022,1,5,Control,21.94,south,1_5
+10/16/2022,1,5,Control,8.29,south,1_5
+10/16/2022,1,5,Control,27,south,1_5
+10/16/2022,1,5,Control,13.46,south,1_5
+10/16/2022,1,5,Control,16.63,south,1_5
+10/16/2022,1,5,Compact ,9.08,south,1_5
+10/16/2022,1,5,Compact ,41.07,south,1_5
+10/16/2022,1,5,Compact ,7.46,south,1_5
+10/16/2022,1,5,Compact ,12.47,south,1_5
+10/16/2022,1,5,Compact ,8.61,south,1_5
+10/16/2022,1,5,Rake,13.95,south,1_5
+10/16/2022,1,5,Rake,10.67,south,1_5
+10/16/2022,1,5,Rake,10.67,south,1_5
+10/16/2022,1,5,Rake,16.05,south,1_5
+10/16/2022,1,5,Rake,9.65,south,1_5
+10/16/2022,1,5,Rake,8.71,south,1_5
+10/16/2022,1,5,Marine Debris,38.61,south,1_5
+10/16/2022,1,5,Marine Debris,13.21,south,1_5
+10/16/2022,1,5,Marine Debris,16.59,south,1_5
+10/16/2022,1,5,Marine Debris,28.83,south,1_5
+10/16/2022,1,6,Control,25.59,north,1_6
+10/16/2022,1,6,Control,30.53,north,1_6
+10/16/2022,1,6,Control,37.43,north,1_6
+10/16/2022,1,6,Control,25.03,north,1_6
+10/16/2022,1,6,Control,26.9,north,1_6
+10/16/2022,1,6,Control,9.34,north,1_6
+10/16/2022,1,6,Control,44.87,north,1_6
+10/16/2022,1,6,Control,9.36,north,1_6
+10/16/2022,1,6,Control,52.45,north,1_6
+10/16/2022,1,6,Control,32.24,north,1_6
+10/16/2022,1,6,Compact ,25.11,north,1_6
+10/16/2022,1,6,Compact ,10.07,north,1_6
+10/16/2022,1,6,Compact ,31.72,north,1_6
+10/16/2022,1,6,Compact ,31.02,north,1_6
+10/16/2022,1,6,Compact ,43.49,north,1_6
+10/16/2022,1,6,Compact ,32.8,north,1_6
+10/16/2022,1,6,Compact ,28.02,north,1_6
+10/16/2022,1,6,Compact ,6.24,north,1_6
+10/16/2022,1,6,Rake,11.51,north,1_6
+10/16/2022,1,6,Rake,11.14,north,1_6
+10/16/2022,1,6,Rake,40.97,north,1_6
+10/16/2022,1,6,Rake,15.79,north,1_6
+10/16/2022,1,6,Rake,26.83,north,1_6
+10/16/2022,1,6,Rake,57.2,north,1_6
+10/16/2022,1,6,Rake,12.49,north,1_6
+10/16/2022,1,6,Rake,19.31,north,1_6
+10/16/2022,1,6,Marine Debris,19.41,north,1_6
+10/16/2022,1,6,Marine Debris,29.26,north,1_6
+10/16/2022,1,6,Marine Debris,25.3,north,1_6
+10/16/2022,1,6,Marine Debris,39.01,north,1_6
+10/16/2022,1,6,Marine Debris,24.4,north,1_6
+10/16/2022,1,6,Marine Debris,20.58,north,1_6
+10/16/2022,1,6,Marine Debris,16.41,north,1_6
+10/16/2022,1,6,Marine Debris,19.34,north,1_6
+10/16/2022,1,7,Control,28.57,north,1_7
+10/16/2022,1,7,Control,23.1,north,1_7
+10/16/2022,1,7,Control,32.66,north,1_7
+10/16/2022,1,7,Control,7.94,north,1_7
+10/16/2022,1,7,Control,9.63,north,1_7
+10/16/2022,1,7,Control,39.68,north,1_7
+10/16/2022,1,7,Control,18.71,north,1_7
+10/16/2022,1,7,Control,33.63,north,1_7
+10/16/2022,1,7,Control,20.4,north,1_7
+10/16/2022,1,7,Control,7.31,north,1_7
+10/16/2022,1,7,Comapct,21.2,north,1_7
+10/16/2022,1,7,Comapct,31.37,north,1_7
+10/16/2022,1,7,Comapct,12.51,north,1_7
+10/16/2022,1,7,Comapct,57.14,north,1_7
+10/16/2022,1,7,Comapct,20.12,north,1_7
+10/16/2022,1,7,Comapct,13.71,north,1_7
+10/16/2022,1,7,Comapct,37.62,north,1_7
+10/16/2022,1,7,Rake,37.62,north,1_7
+10/16/2022,1,7,Rake,35.38,north,1_7
+10/16/2022,1,7,Rake,24.42,north,1_7
+10/16/2022,1,7,Rake,44.94,north,1_7
+10/16/2022,1,7,Rake,55.08,north,1_7
+10/16/2022,1,7,Rake,22.84,north,1_7
+10/16/2022,1,7,Rake,23.35,north,1_7
+10/16/2022,1,7,Rake,30.32,north,1_7
+10/16/2022,1,7,Rake,26.29,north,1_7
+10/16/2022,1,7,Rake,50.87,north,1_7
+10/16/2022,1,7,Rake,31.34,north,1_7
+10/16/2022,1,7,Rake,43.67,north,1_7
+10/16/2022,1,7,Rake,25.33,north,1_7
+10/16/2022,1,7,Rake,27.7,north,1_7
+10/16/2022,1,7,Rake,23.84,north,1_7
+10/16/2022,1,7,Marine Debris,19.73,north,1_7
+10/16/2022,1,7,Marine Debris,27.27,north,1_7
+10/16/2022,1,7,Marine Debris,15.9,north,1_7
+10/16/2022,1,7,Marine Debris,11.06,north,1_7
+10/16/2022,1,7,Marine Debris,30.32,north,1_7
+10/16/2022,1,7,Marine Debris,11.22,north,1_7
+10/16/2022,1,7,Marine Debris,21.87,north,1_7
+10/16/2022,1,7,Marine Debris,24.99,north,1_7
+10/16/2022,1,7,Marine Debris,11.57,north,1_7
+10/16/2022,1,7,Marine Debris,19.74,north,1_7
+10/16/2022,1,8,Control,19.24,north,1_8
+10/16/2022,1,8,Control,44.79,north,1_8
+10/16/2022,1,8,Control,31.15,north,1_8
+10/16/2022,1,8,Control,43.22,north,1_8
+10/16/2022,1,8,Control,67.2,north,1_8
+10/16/2022,1,8,Control,27.6,north,1_8
+10/16/2022,1,8,Control,10.24,north,1_8
+10/16/2022,1,8,Compact ,35.21,north,1_8
+10/16/2022,1,8,Compact ,30.71,north,1_8
+10/16/2022,1,8,Compact ,22.27,north,1_8
+10/16/2022,1,8,Compact ,60.75,north,1_8
+10/16/2022,1,8,Compact ,18.71,north,1_8
+10/16/2022,1,8,Rake,18.68,north,1_8
+10/16/2022,1,8,Rake,24.35,north,1_8
+10/16/2022,1,8,Rake,30.71,north,1_8
+10/16/2022,1,8,Rake,21.2,north,1_8
+10/16/2022,1,8,Rake,20.84,north,1_8
+10/16/2022,1,8,Marine Debris,19.4,north,1_8
+10/16/2022,1,8,Marine Debris,25.57,north,1_8
+10/16/2022,1,8,Marine Debris,6.08,north,1_8
+10/16/2022,1,8,Marine Debris,38.11,north,1_8
+10/16/2022,1,9,Control,12.35,north,1_9
+10/16/2022,1,9,Control,14.52,north,1_9
+10/16/2022,1,9,Control,23.39,north,1_9
+10/16/2022,1,9,Control,26.08,north,1_9
+10/16/2022,1,9,Control,9.74,north,1_9
+10/16/2022,1,9,Control,9.72,north,1_9
+10/16/2022,1,9,Control,7.12,north,1_9
+10/16/2022,1,9,Compact ,80.41,north,1_9
+10/16/2022,1,9,Compact ,20.34,north,1_9
+10/16/2022,1,9,Compact ,15.23,north,1_9
+10/16/2022,1,9,Compact ,22.55,north,1_9
+10/16/2022,1,9,Rake,17.09,north,1_9
+10/16/2022,1,9,Rake,24.6,north,1_9
+10/16/2022,1,9,Rake,14.9,north,1_9
+10/16/2022,1,9,Rake,25.19,north,1_9
+10/16/2022,1,9,Rake,14.94,north,1_9
+10/16/2022,1,9,Rake,11.02,north,1_9
+10/16/2022,1,9,Rake,20.95,north,1_9
+10/16/2022,1,9,Rake,34.3,north,1_9
+10/16/2022,1,9,Marine Debris,24.72,north,1_9
+10/16/2022,1,9,Marine Debris,34.31,north,1_9
+10/16/2022,1,9,Marine Debris,16.89,north,1_9
+10/16/2022,1,9,Marine Debris,14.85,north,1_9
+10/16/2022,1,9,Marine Debris,22.79,north,1_9
+10/16/2022,1,9,Marine Debris,57.73,north,1_9
+10/16/2022,1,9,Marine Debris,21.57,north,1_9
+10/16/2022,1,9,Marine Debris,14.83,north,1_9
+10/16/2022,1,9,Marine Debris,24.68,north,1_9
+10/16/2022,1,10,Control,10.29,north,1_10
+10/16/2022,1,10,Control,5.1,north,1_10
+10/16/2022,1,10,Control,7.6,north,1_10
+10/16/2022,1,10,Control,5.42,north,1_10
+10/16/2022,1,10,Control,13.29,north,1_10
+10/16/2022,1,10,Control,27,north,1_10
+10/16/2022,1,10,Control,37,north,1_10
+10/16/2022,1,10,Control,32.1,north,1_10
+10/16/2022,1,10,Control,14.07,north,1_10
+10/16/2022,1,10,Control,10.38,north,1_10
+10/16/2022,1,10,Control,12,north,1_10
+10/16/2022,1,10,Control,41.11,north,1_10
+10/16/2022,1,10,Control,31.53,north,1_10
+10/16/2022,1,10,Control,26.7,north,1_10
+10/16/2022,1,10,Compact ,10.19,north,1_10
+10/16/2022,1,10,Compact ,10.05,north,1_10
+10/16/2022,1,10,Compact ,29.39,north,1_10
+10/16/2022,1,10,Compact ,34.96,north,1_10
+10/16/2022,1,10,Compact ,7.84,north,1_10
+10/16/2022,1,10,Compact ,16.39,north,1_10
+10/16/2022,1,10,Rake,14.93,north,1_10
+10/16/2022,1,10,Rake,14.96,north,1_10
+10/16/2022,1,10,Rake,10.05,north,1_10
+10/16/2022,1,10,Rake,31.49,north,1_10
+10/16/2022,1,10,Rake,8.64,north,1_10
+10/16/2022,1,10,Rake,8.7,north,1_10
+10/16/2022,1,10,Rake,11.18,north,1_10
+10/16/2022,1,10,Rake,34.8,north,1_10
+10/16/2022,1,10,Rake,20.32,north,1_10
+10/16/2022,1,10,Rake,24.35,north,1_10
+10/16/2022,1,10,Rake,34.07,north,1_10
+10/16/2022,1,10,Marine Debris,14.64,north,1_10
+10/16/2022,1,10,Marine Debris,35.17,north,1_10
+10/16/2022,1,10,Marine Debris,30.69,north,1_10
+10/16/2022,1,10,Marine Debris,11.59,north,1_10
+10/16/2022,1,10,Marine Debris,25.13,north,1_10
+10/17/2022,2,1,Marine Debris,9.31,south,2_1
+10/17/2022,2,1,Marine Debris,9.64,south,2_1
+10/17/2022,2,1,Marine Debris,18.25,south,2_1
+10/17/2022,2,1,Marine Debris,8.79,south,2_1
+10/17/2022,2,1,Marine Debris,7.55,south,2_1
+10/17/2022,2,1,Marine Debris,9.81,south,2_1
+10/17/2022,2,1,Marine Debris,23.97,south,2_1
+10/17/2022,2,1,Marine Debris,16.48,south,2_1
+10/17/2022,2,1,Marine Debris,9.68,south,2_1
+10/17/2022,2,1,Rake,9.75,south,2_1
+10/17/2022,2,1,Rake,9.79,south,2_1
+10/17/2022,2,1,Rake,13.09,south,2_1
+10/17/2022,2,1,Rake,36.89,south,2_1
+10/17/2022,2,1,Rake,26.18,south,2_1
+10/17/2022,2,1,Rake,24.57,south,2_1
+10/17/2022,2,1,Rake,39.41,south,2_1
+10/17/2022,2,1,Rake,7.56,south,2_1
+10/17/2022,2,1,Compact ,27.76,south,2_1
+10/17/2022,2,1,Compact ,41.35,south,2_1
+10/17/2022,2,1,Compact ,10.1,south,2_1
+10/17/2022,2,1,Compact ,9.83,south,2_1
+10/17/2022,2,1,Compact ,14.13,south,2_1
+10/17/2022,2,1,Compact ,8.4,south,2_1
+10/17/2022,2,1,Control,12.5,south,2_1
+10/17/2022,2,1,Control,33.1,south,2_1
+10/17/2022,2,1,Control,9.41,south,2_1
+10/17/2022,2,1,Control,10.53,south,2_1
+10/17/2022,2,1,Control,33.19,south,2_1
+10/17/2022,2,1,Control,9.02,south,2_1
+10/17/2022,2,1,Control,12.4,south,2_1
+10/17/2022,2,1,Control,17.04,south,2_1
+10/17/2022,2,1,Control,25,south,2_1
+10/17/2022,2,1,Control,23.11,south,2_1
+10/17/2022,2,2,Marine Debris,17.53,south,2_2
+10/17/2022,2,2,Marine Debris,12.3,south,2_2
+10/17/2022,2,2,Marine Debris,14.24,south,2_2
+10/17/2022,2,2,Marine Debris,9.33,south,2_2
+10/17/2022,2,2,Marine Debris,14.74,south,2_2
+10/17/2022,2,2,Marine Debris,14.54,south,2_2
+10/17/2022,2,2,Rake,41.12,south,2_2
+10/17/2022,2,2,Rake,15.95,south,2_2
+10/17/2022,2,2,Rake,26.36,south,2_2
+10/17/2022,2,2,Rake,8.88,south,2_2
+10/17/2022,2,2,Rake,21.12,south,2_2
+10/17/2022,2,2,Rake,32.23,south,2_2
+10/17/2022,2,2,Rake,30.78,south,2_2
+10/17/2022,2,2,Compact ,28.67,south,2_2
+10/17/2022,2,2,Compact ,20.83,south,2_2
+10/17/2022,2,2,Compact ,15.46,south,2_2
+10/17/2022,2,2,Compact ,17.85,south,2_2
+10/17/2022,2,2,Compact ,11.15,south,2_2
+10/17/2022,2,2,Compact ,8.84,south,2_2
+10/17/2022,2,2,Compact ,31.3,south,2_2
+10/17/2022,2,2,Compact ,55,south,2_2
+10/17/2022,2,2,Compact ,17.89,south,2_2
+10/17/2022,2,2,Compact ,14.21,south,2_2
+10/17/2022,2,2,Control,8.15,south,2_2
+10/17/2022,2,2,Control,21.65,south,2_2
+10/17/2022,2,2,Control,18.84,south,2_2
+10/17/2022,2,2,Control,7.56,south,2_2
+10/17/2022,2,2,Control,38.25,south,2_2
+10/17/2022,2,2,Control,26.18,south,2_2
+10/17/2022,2,2,Control,10.3,south,2_2
+10/17/2022,2,2,Control,38.95,south,2_2
+10/17/2022,2,2,Control,12.68,south,2_2
+10/17/2022,2,2,Control,10.54,south,2_2
+10/17/2022,2,2,Control,8.99,south,2_2
+10/17/2022,2,3,Marine Debris,15.87,south,2_3
+10/17/2022,2,3,Marine Debris,8.04,south,2_3
+10/17/2022,2,3,Marine Debris,11.58,south,2_3
+10/17/2022,2,3,Marine Debris,31.17,south,2_3
+10/17/2022,2,3,Marine Debris,20.85,south,2_3
+10/17/2022,2,3,Marine Debris,16.97,south,2_3
+10/17/2022,2,3,Marine Debris,15.12,south,2_3
+10/17/2022,2,3,Marine Debris,12.98,south,2_3
+10/17/2022,2,3,Marine Debris,15.77,south,2_3
+10/17/2022,2,3,Rake,22.53,south,2_3
+10/17/2022,2,3,Rake,13.57,south,2_3
+10/17/2022,2,3,Rake,40.92,south,2_3
+10/17/2022,2,3,Rake,28.25,south,2_3
+10/17/2022,2,3,Rake,17.6,south,2_3
+10/17/2022,2,3,Rake,7.4,south,2_3
+10/17/2022,2,3,Rake,29.38,south,2_3
+10/17/2022,2,3,Rake,27.78,south,2_3
+10/17/2022,2,3,Compact ,9.7,south,2_3
+10/17/2022,2,3,Compact ,17.82,south,2_3
+10/17/2022,2,3,Compact ,33.37,south,2_3
+10/17/2022,2,3,Compact ,9.78,south,2_3
+10/17/2022,2,3,Compact ,26.41,south,2_3
+10/17/2022,2,3,Compact ,27.7,south,2_3
+10/17/2022,2,3,Compact ,9.07,south,2_3
+10/17/2022,2,3,Control,11,south,2_3
+10/17/2022,2,3,Control,22.02,south,2_3
+10/17/2022,2,3,Control,25.81,south,2_3
+10/17/2022,2,3,Control,10.71,south,2_3
+10/17/2022,2,3,Control,25.5,south,2_3
+10/17/2022,2,3,Control,27.02,south,2_3
+10/17/2022,2,3,Control,9.43,south,2_3
+10/17/2022,2,4,Marine Debris,6.65,south,2_4
+10/17/2022,2,4,Marine Debris,40.19,south,2_4
+10/17/2022,2,4,Marine Debris,10.37,south,2_4
+10/17/2022,2,4,Marine Debris,11.9,south,2_4
+10/17/2022,2,4,Marine Debris,30.32,south,2_4
+10/17/2022,2,4,Rake,60.18,south,2_4
+10/17/2022,2,4,Rake,50.12,south,2_4
+10/17/2022,2,4,Rake,28.38,south,2_4
+10/17/2022,2,4,Rake,15.23,south,2_4
+10/17/2022,2,4,Rake,28.37,south,2_4
+10/17/2022,2,4,Rake,18.35,south,2_4
+10/17/2022,2,4,Rake,13.87,south,2_4
+10/17/2022,2,4,Compact ,20.78,south,2_4
+10/17/2022,2,4,Compact ,7.37,south,2_4
+10/17/2022,2,4,Compact ,51.14,south,2_4
+10/17/2022,2,4,Compact ,15.15,south,2_4
+10/17/2022,2,4,Compact ,30.59,south,2_4
+10/17/2022,2,4,Compact ,44.49,south,2_4
+10/17/2022,2,4,Control,16.12,south,2_4
+10/17/2022,2,4,Control,32.79,south,2_4
+10/17/2022,2,4,Control,13.28,south,2_4
+10/17/2022,2,4,Control,51.05,south,2_4
+10/17/2022,2,4,Control,14.1,south,2_4
+10/17/2022,2,4,Control,4.2,south,2_4
+10/17/2022,2,5,Marine Debris,27.36,south,2_5
+10/17/2022,2,5,Marine Debris,14.7,south,2_5
+10/17/2022,2,5,Marine Debris,12.8,south,2_5
+10/17/2022,2,5,Marine Debris,32.11,south,2_5
+10/17/2022,2,5,Marine Debris,21.92,south,2_5
+10/17/2022,2,5,Marine Debris,12.14,south,2_5
+10/17/2022,2,5,Marine Debris,9.14,south,2_5
+10/17/2022,2,5,Marine Debris,14.85,south,2_5
+10/17/2022,2,5,Marine Debris,20.58,south,2_5
+10/17/2022,2,5,Rake,14.95,south,2_5
+10/17/2022,2,5,Rake,32.51,south,2_5
+10/17/2022,2,5,Rake,9.89,south,2_5
+10/17/2022,2,5,Rake,12.53,south,2_5
+10/17/2022,2,5,Compact ,6.75,south,2_5
+10/17/2022,2,5,Compact ,10.7,south,2_5
+10/17/2022,2,5,Control,12.69,south,2_5
+10/17/2022,2,5,Control,27.37,south,2_5
+10/17/2022,2,5,Control,15.27,south,2_5
+10/17/2022,2,5,Control,32.43,south,2_5
+10/17/2022,2,5,Control,12.61,south,2_5
+10/17/2022,2,5,Control,10.04,south,2_5
+10/17/2022,2,6,Marine Debris,37.04,north,2_6
+10/17/2022,2,6,Marine Debris,25.81,north,2_6
+10/17/2022,2,6,Marine Debris,47.05,north,2_6
+10/17/2022,2,6,Marine Debris,26.18,north,2_6
+10/17/2022,2,6,Marine Debris,17,north,2_6
+10/17/2022,2,6,Marine Debris,22.58,north,2_6
+10/17/2022,2,6,Marine Debris,21.01,north,2_6
+10/17/2022,2,6,Rake,50.53,north,2_6
+10/17/2022,2,6,Rake,24.68,north,2_6
+10/17/2022,2,6,Rake,20.75,north,2_6
+10/17/2022,2,6,Rake,32.71,north,2_6
+10/17/2022,2,6,Rake,31,north,2_6
+10/17/2022,2,6,Rake,13.64,north,2_6
+10/17/2022,2,6,Rake,16.58,north,2_6
+10/17/2022,2,6,Compact ,18.08,north,2_6
+10/17/2022,2,6,Compact ,23.68,north,2_6
+10/17/2022,2,6,Compact ,20.54,north,2_6
+10/17/2022,2,6,Compact ,29.58,north,2_6
+10/17/2022,2,6,Compact ,38.2,north,2_6
+10/17/2022,2,6,Control,9.93,north,2_6
+10/17/2022,2,6,Control,24.23,north,2_6
+10/17/2022,2,6,Control,24.27,north,2_6
+10/17/2022,2,6,Control,27.014,north,2_6
+10/17/2022,2,6,Control,31.8,north,2_6
+10/17/2022,2,6,Control,31.97,north,2_6
+10/17/2022,2,6,Control,32.41,north,2_6
+10/17/2022,2,6,Control,65.19,north,2_6
+10/17/2022,2,6,Control,52.53,north,2_6
+10/17/2022,2,6,Control,80.2,north,2_6
+10/17/2022,2,7,Marine Debris,28.93,north,2_7
+10/17/2022,2,7,Marine Debris,31.44,north,2_7
+10/17/2022,2,7,Marine Debris,16.6,north,2_7
+10/17/2022,2,7,Marine Debris,20.95,north,2_7
+10/17/2022,2,7,Marine Debris,30.96,north,2_7
+10/17/2022,2,7,Marine Debris,42.71,north,2_7
+10/17/2022,2,7,Marine Debris,32.84,north,2_7
+10/17/2022,2,7,Marine Debris,29.19,north,2_7
+10/17/2022,2,7,Rake,58.86,north,2_7
+10/17/2022,2,7,Rake,26.58,north,2_7
+10/17/2022,2,7,Rake,9.47,north,2_7
+10/17/2022,2,7,Rake,36.69,north,2_7
+10/17/2022,2,7,Rake,9.1,north,2_7
+10/17/2022,2,7,Rake,51.95,north,2_7
+10/17/2022,2,7,Rake,31.27,north,2_7
+10/17/2022,2,7,Rake,31.06,north,2_7
+10/17/2022,2,7,Rake,33.16,north,2_7
+10/17/2022,2,7,Rake,64.43,north,2_7
+10/17/2022,2,7,Rake,35.73,north,2_7
+10/17/2022,2,7,Rake,48.22,north,2_7
+10/17/2022,2,7,Rake,52.85,north,2_7
+10/17/2022,2,7,Rake,16.39,north,2_7
+10/17/2022,2,7,Compact ,14.03,north,2_7
+10/17/2022,2,7,Compact ,44.52,north,2_7
+10/17/2022,2,7,Compact ,27.64,north,2_7
+10/17/2022,2,7,Control,10.3,north,2_7
+10/17/2022,2,7,Control,43.05,north,2_7
+10/17/2022,2,7,Control,25.49,north,2_7
+10/17/2022,2,7,Control,14.67,north,2_7
+10/17/2022,2,7,Control,11.37,north,2_7
+10/17/2022,2,7,Control,40.04,north,2_7
+10/17/2022,2,7,Control,25.4,north,2_7
+10/17/2022,2,7,Control,21.95,north,2_7
+10/17/2022,2,7,Control,52.4,north,2_7
+10/17/2022,2,8,Marine Debris,10.39,north,2_8
+10/17/2022,2,8,Marine Debris,45.44,north,2_8
+10/17/2022,2,8,Marine Debris,28.45,north,2_8
+10/17/2022,2,8,Marine Debris,21.12,north,2_8
+10/17/2022,2,8,Marine Debris,14.52,north,2_8
+10/17/2022,2,8,Marine Debris,15.65,north,2_8
+10/17/2022,2,8,Marine Debris,31.83,north,2_8
+10/17/2022,2,8,Marine Debris,48.68,north,2_8
+10/17/2022,2,8,Rake,52.17,north,2_8
+10/17/2022,2,8,Rake,23.44,north,2_8
+10/17/2022,2,8,Rake,36.63,north,2_8
+10/17/2022,2,8,Rake,21.5,north,2_8
+10/17/2022,2,8,Rake,33.54,north,2_8
+10/17/2022,2,8,Rake,22.35,north,2_8
+10/17/2022,2,8,Compact ,31.7,north,2_8
+10/17/2022,2,8,Control,25.83,north,2_8
+10/17/2022,2,8,Control,28,north,2_8
+10/17/2022,2,8,Control,37.83,north,2_8
+10/17/2022,2,8,Control,25.04,north,2_8
+10/17/2022,2,8,Control,8.15,north,2_8
+10/17/2022,2,8,Control,63.79,north,2_8
+10/17/2022,2,8,Control,43.81,north,2_8
+10/17/2022,2,9,Marine Debris,32.73,north,2_9
+10/17/2022,2,9,Marine Debris,9.74,north,2_9
+10/17/2022,2,9,Marine Debris,10.1,north,2_9
+10/17/2022,2,9,Marine Debris,11,north,2_9
+10/17/2022,2,9,Marine Debris,28.2,north,2_9
+10/17/2022,2,9,Marine Debris,11.8,north,2_9
+10/17/2022,2,9,Marine Debris,46.5,north,2_9
+10/17/2022,2,9,Marine Debris,22.69,north,2_9
+10/17/2022,2,9,Rake,11.5,north,2_9
+10/17/2022,2,9,Rake,25.75,north,2_9
+10/17/2022,2,9,Rake,26.14,north,2_9
+10/17/2022,2,9,Rake,32.48,north,2_9
+10/17/2022,2,9,Rake,16.78,north,2_9
+10/17/2022,2,9,Rake,30.25,north,2_9
+10/17/2022,2,9,Compact ,14.49,north,2_9
+10/17/2022,2,9,Compact ,48.22,north,2_9
+10/17/2022,2,9,Compact ,15.13,north,2_9
+10/17/2022,2,9,Compact ,35.72,north,2_9
+10/17/2022,2,9,Control,23,north,2_9
+10/17/2022,2,9,Control,37.6,north,2_9
+10/17/2022,2,9,Control,25,north,2_9
+10/17/2022,2,10,Marine Debris,19.5,north,2_10
+10/17/2022,2,10,Marine Debris,13.32,north,2_10
+10/17/2022,2,10,Marine Debris,35.62,north,2_10
+10/17/2022,2,10,Marine Debris,23.92,north,2_10
+10/17/2022,2,10,Marine Debris,29.3,north,2_10
+10/17/2022,2,10,Marine Debris,36.44,north,2_10
+10/17/2022,2,10,Marine Debris,14.92,north,2_10
+10/17/2022,2,10,Marine Debris,11.91,north,2_10
+10/17/2022,2,10,Rake,17.35,north,2_10
+10/17/2022,2,10,Rake,36.57,north,2_10
+10/17/2022,2,10,Rake,26.57,north,2_10
+10/17/2022,2,10,Compact ,,north,2_10
+10/17/2022,2,10,Control,12.05,north,2_10
+10/17/2022,2,10,Control,30.2,north,2_10
+10/17/2022,2,10,Control,33.19,north,2_10
+10/17/2022,2,10,Control,39.08,north,2_10
+10/17/2022,2,10,Control,36.14,north,2_10
+10/18/2022,3,1,Control,37.04,south,3_1
+10/18/2022,3,1,Control,8.42,south,3_1
+10/18/2022,3,1,Compact ,45.72,south,3_1
+10/18/2022,3,1,Compact ,23.62,south,3_1
+10/18/2022,3,1,Compact ,15.84,south,3_1
+10/18/2022,3,1,Rake,12.44,south,3_1
+10/18/2022,3,1,Rake,50.2,south,3_1
+10/18/2022,3,1,Marine Debris,9.16,south,3_1
+10/18/2022,3,1,Marine Debris,31.09,south,3_1
+10/18/2022,3,2,Control,11.88,south,3_2
+10/18/2022,3,2,Control,28,south,3_2
+10/18/2022,3,2,Control,13.7,south,3_2
+10/18/2022,3,2,Control,34.3,south,3_2
+10/18/2022,3,2,Control,20.89,south,3_2
+10/18/2022,3,2,Control,8.02,south,3_2
+10/18/2022,3,2,Compact ,41.9,south,3_2
+10/18/2022,3,2,Compact ,56.24,south,3_2
+10/18/2022,3,2,Compact ,11.41,south,3_2
+10/18/2022,3,2,Compact ,14.72,south,3_2
+10/18/2022,3,2,Rake,10.42,south,3_2
+10/18/2022,3,2,Rake,29.7,south,3_2
+10/18/2022,3,2,Marine Debris,46.81,south,3_2
+10/18/2022,3,2,Marine Debris,9.34,south,3_2
+10/18/2022,3,2,Marine Debris,10.92,south,3_2
+10/18/2022,3,2,Marine Debris,16.3,south,3_2
+10/18/2022,3,3,Control,11.65,south,3_3
+10/18/2022,3,3,Control,20.2,south,3_3
+10/18/2022,3,3,Control,31.31,south,3_3
+10/18/2022,3,3,Control,17.09,south,3_3
+10/18/2022,3,3,Control,41.55,south,3_3
+10/18/2022,3,3,Compact ,22.68,south,3_3
+10/18/2022,3,3,Compact ,25.81,south,3_3
+10/18/2022,3,3,Compact ,6.6,south,3_3
+10/18/2022,3,3,Compact ,8.85,south,3_3
+10/18/2022,3,3,Compact ,8.57,south,3_3
+10/18/2022,3,3,Compact ,16.65,south,3_3
+10/18/2022,3,3,Rake,15.05,south,3_3
+10/18/2022,3,3,Rake,26.95,south,3_3
+10/18/2022,3,3,Rake,25.02,south,3_3
+10/18/2022,3,3,Rake,46.59,south,3_3
+10/18/2022,3,3,Marine Debris,61.91,south,3_3
+10/18/2022,3,3,Marine Debris,31.83,south,3_3
+10/18/2022,3,3,Marine Debris,13.98,south,3_3
+10/18/2022,3,3,Marine Debris,17.19,south,3_3
+10/18/2022,3,3,Marine Debris,39.09,south,3_3
+10/18/2022,3,3,Marine Debris,22.82,south,3_3
+10/18/2022,3,3,Marine Debris,30.1,south,3_3
+10/18/2022,3,3,Marine Debris,11.89,south,3_3
+10/18/2022,3,4,Control,15.94,south,3_4
+10/18/2022,3,4,Control,8.17,south,3_4
+10/18/2022,3,4,Control,12.3,south,3_4
+10/18/2022,3,4,Compact ,53.36,south,3_4
+10/18/2022,3,4,Compact ,44.82,south,3_4
+10/18/2022,3,4,Compact ,31.25,south,3_4
+10/18/2022,3,4,Compact ,18.19,south,3_4
+10/18/2022,3,4,Compact ,14.73,south,3_4
+10/18/2022,3,4,Rake,11.74,south,3_4
+10/18/2022,3,4,Rake,10.1,south,3_4
+10/18/2022,3,4,Rake,12.23,south,3_4
+10/18/2022,3,4,Rake,36.16,south,3_4
+10/18/2022,3,4,Rake,19.63,south,3_4
+10/18/2022,3,4,Marine Debris,29.73,south,3_4
+10/18/2022,3,4,Marine Debris,36.92,south,3_4
+10/18/2022,3,4,Marine Debris,15.33,south,3_4
+10/18/2022,3,4,Marine Debris,8.48,south,3_4
+10/18/2022,3,4,Marine Debris,11.69,south,3_4
+10/18/2022,3,5,Control,8.55,south,3_5
+10/18/2022,3,5,Control,35.53,south,3_5
+10/18/2022,3,5,Control,18.68,south,3_5
+10/18/2022,3,5,Compact ,,south,3_5
+10/18/2022,3,5,Rake,,south,3_5
+10/18/2022,3,5,Marine Debris,13.45,south,3_5
+10/18/2022,3,5,Marine Debris,34.54,south,3_5
+10/18/2022,3,6,Control,26.6,north,3_6
+10/18/2022,3,6,Control,59.63,north,3_6
+10/18/2022,3,6,Control,42.38,north,3_6
+10/18/2022,3,6,Control,28.35,north,3_6
+10/18/2022,3,6,Control,26.41,north,3_6
+10/18/2022,3,6,Compact ,10.89,north,3_6
+10/18/2022,3,6,Compact ,33.31,north,3_6
+10/18/2022,3,6,Compact ,44.29,north,3_6
+10/18/2022,3,6,Compact ,64.39,north,3_6
+10/18/2022,3,6,Rake,54.74,north,3_6
+10/18/2022,3,6,Rake,55.42,north,3_6
+10/18/2022,3,6,Rake,10.85,north,3_6
+10/18/2022,3,6,Marine Debris,31.74,north,3_6
+10/18/2022,3,6,Marine Debris,11.14,north,3_6
+10/18/2022,3,6,Marine Debris,30.1,north,3_6
+10/18/2022,3,6,Marine Debris,32.76,north,3_6
+10/18/2022,3,6,Marine Debris,32.93,north,3_6
+10/18/2022,3,6,Marine Debris,12.39,north,3_6
+10/18/2022,3,6,Marine Debris,34.69,north,3_6
+10/18/2022,3,7,Control,39.15,north,3_7
+10/18/2022,3,7,Control,26.06,north,3_7
+10/18/2022,3,7,Control,22.25,north,3_7
+10/18/2022,3,7,Compact ,16.08,north,3_7
+10/18/2022,3,7,Compact ,25.44,north,3_7
+10/18/2022,3,7,Compact ,25.67,north,3_7
+10/18/2022,3,7,Compact ,29.81,north,3_7
+10/18/2022,3,7,Rake,41.53,north,3_7
+10/18/2022,3,7,Rake,54.32,north,3_7
+10/18/2022,3,7,Rake,10.85,north,3_7
+10/18/2022,3,7,Rake,9.5,north,3_7
+10/18/2022,3,7,Rake,32.99,north,3_7
+10/18/2022,3,7,Rake,12.14,north,3_7
+10/18/2022,3,7,Marine Debris,24.49,north,3_7
+10/18/2022,3,7,Marine Debris,33.92,north,3_7
+10/18/2022,3,7,Marine Debris,24.6,north,3_7
+10/18/2022,3,7,Marine Debris,36.68,north,3_7
+10/18/2022,3,8,Control,40.86,north,3_8
+10/18/2022,3,8,Control,56.63,north,3_8
+10/18/2022,3,8,Control,37.68,north,3_8
+10/18/2022,3,8,Control,44.77,north,3_8
+10/18/2022,3,8,Control,59.97,north,3_8
+10/18/2022,3,8,Compact ,10.45,north,3_8
+10/18/2022,3,8,Compact ,28.19,north,3_8
+10/18/2022,3,8,Compact ,20.55,north,3_8
+10/18/2022,3,8,Compact ,37.5,north,3_8
+10/18/2022,3,8,Rake,66,north,3_8
+10/18/2022,3,8,Marine Debris,53.63,north,3_8
+10/18/2022,3,8,Marine Debris,42.63,north,3_8
+10/18/2022,3,8,Marine Debris,40.13,north,3_8
+10/18/2022,3,8,Marine Debris,22.44,north,3_8
+10/18/2022,3,9,Control,24.79,north,3_9
+10/18/2022,3,9,Control,10.82,north,3_9
+10/18/2022,3,9,Compact ,20.37,north,3_9
+10/18/2022,3,9,Compact ,61.62,north,3_9
+10/18/2022,3,9,Compact ,22.6,north,3_9
+10/18/2022,3,9,Rake,81.52,north,3_9
+10/18/2022,3,9,Rake,42.68,north,3_9
+10/18/2022,3,9,Rake,18.39,north,3_9
+10/18/2022,3,9,Rake,27.91,north,3_9
+10/18/2022,3,9,Rake,40.95,north,3_9
+10/18/2022,3,9,Rake,22.47,north,3_9
+10/18/2022,3,9,Rake,37.09,north,3_9
+10/18/2022,3,9,Rake,23.09,north,3_9
+10/18/2022,3,9,Marine Debris,39.34,north,3_9
+10/18/2022,3,9,Marine Debris,22.9,north,3_9
+10/18/2022,3,9,Marine Debris,11.77,north,3_9
+10/18/2022,3,9,Marine Debris,11.4,north,3_9
+10/18/2022,3,9,Marine Debris,16.15,north,3_9
+10/18/2022,3,9,Marine Debris,22.83,north,3_9
+10/18/2022,3,9,Marine Debris,14.54,north,3_9
+10/18/2022,3,9,Marine Debris,27.72,north,3_9
+10/18/2022,3,9,Marine Debris,45.07,north,3_9
+10/18/2022,3,10,Control,15.44,north,3_10
+10/18/2022,3,10,Control,11.06,north,3_10
+10/18/2022,3,10,Control,23.94,north,3_10
+10/18/2022,3,10,Control,44.03,north,3_10
+10/18/2022,3,10,Compact ,13.56,north,3_10
+10/18/2022,3,10,Rake,19.43,north,3_10
+10/18/2022,3,10,Marine Debris,21.51,north,3_10
+10/18/2022,3,10,Marine Debris,10.01,north,3_10
+10/18/2022,3,10,Marine Debris,36.73,north,3_10
+10/18/2022,3,10,Marine Debris,27.14,north,3_10
+10/18/2022,3,10,Marine Debris,16.7,north,3_10
+10/18/2022,3,10,Marine Debris,16.06,north,3_10
+10/19/2022,4,1,Marine Debris,26.38,south,4_1
+10/19/2022,4,1,Rake,,south,4_1
+10/19/2022,4,1,Compact ,38.18,south,4_1
+10/19/2022,4,1,Compact ,9.01,south,4_1
+10/19/2022,4,1,Control,24.85,south,4_1
+10/19/2022,4,2,Marine Debris,,south,4_2
+10/19/2022,4,2,Rake,,south,4_2
+10/19/2022,4,2,Compact ,30.34,south,4_2
+10/19/2022,4,2,Compact ,23,south,4_2
+10/19/2022,4,2,Compact ,11.98,south,4_2
+10/19/2022,4,2,Compact ,31.11,south,4_2
+10/19/2022,4,2,Compact ,25.91,south,4_2
+10/19/2022,4,2,Control,12.39,south,4_2
+10/19/2022,4,2,Control,19.87,south,4_2
+10/19/2022,4,3,Marine Debris,13.47,south,4_3
+10/19/2022,4,3,Marine Debris,24.09,south,4_3
+10/19/2022,4,3,Marine Debris,20.53,south,4_3
+10/19/2022,4,3,Marine Debris,16.2,south,4_3
+10/19/2022,4,3,Rake,17.74,south,4_3
+10/19/2022,4,3,Compact ,22.39,south,4_3
+10/19/2022,4,3,Control,15.58,south,4_3
+10/19/2022,4,3,Control,23.7,south,4_3
+10/19/2022,4,3,Control,10.44,south,4_3
+10/19/2022,4,4,Marine Debris,16.81,south,4_4
+10/19/2022,4,4,Marine Debris,25.26,south,4_4
+10/19/2022,4,4,Marine Debris,31.65,south,4_4
+10/19/2022,4,4,Rake,,south,4_4
+10/19/2022,4,4,Compact ,13.92,south,4_4
+10/19/2022,4,4,Compact ,26.31,south,4_4
+10/19/2022,4,4,Compact ,31.9,south,4_4
+10/19/2022,4,4,Control,12.75,south,4_4
+10/19/2022,4,5,Marine Debris,14.1,south,4_5
+10/19/2022,4,5,Rake,25.85,south,4_5
+10/19/2022,4,5,Compact ,,south,4_5
+10/19/2022,4,5,Control,9.74,south,4_5
+10/19/2022,4,6,Marine Debris,21.76,north,4_6
+10/19/2022,4,6,Marine Debris,25.46,north,4_6
+10/19/2022,4,6,Marine Debris,21.22,north,4_6
+10/19/2022,4,6,Marine Debris,17.11,north,4_6
+10/19/2022,4,6,Rake,19.06,north,4_6
+10/19/2022,4,6,Rake,8.37,north,4_6
+10/19/2022,4,6,Compact ,23.6,north,4_6
+10/19/2022,4,6,Control,31.43,north,4_6
+10/19/2022,4,7,Marine Debris,29.24,north,4_7
+10/19/2022,4,7,Marine Debris,33.67,north,4_7
+10/19/2022,4,7,Marine Debris,53.46,north,4_7
+10/19/2022,4,7,Marine Debris,33.01,north,4_7
+10/19/2022,4,7,Rake,18.4,north,4_7
+10/19/2022,4,7,Rake,44.18,north,4_7
+10/19/2022,4,7,Rake,9,north,4_7
+10/19/2022,4,7,Compact ,28.47,north,4_7
+10/19/2022,4,7,Control,28.67,north,4_7
+10/19/2022,4,7,Control,22.01,north,4_7
+10/19/2022,4,8,Marine Debris,16.73,north,4_8
+10/19/2022,4,8,Marine Debris,7.72,north,4_8
+10/19/2022,4,8,Rake,9.23,north,4_8
+10/19/2022,4,8,Compact ,,north,4_8
+10/19/2022,4,8,Control,45.82,north,4_8
+10/19/2022,4,8,Control,29,north,4_8
+10/19/2022,4,9,Marine Debris,21.15,north,4_9
+10/19/2022,4,9,Marine Debris,42.79,north,4_9
+10/19/2022,4,9,Marine Debris,45.99,north,4_9
+10/19/2022,4,9,Marine Debris,35.2,north,4_9
+10/19/2022,4,9,Marine Debris,10.5,north,4_9
+10/19/2022,4,9,Rake,10.3,north,4_9
+10/19/2022,4,9,Rake,20.68,north,4_9
+10/19/2022,4,9,Rake,4.48,north,4_9
+10/19/2022,4,9,Rake,68.77,north,4_9
+10/19/2022,4,9,Compact ,,north,4_9
+10/19/2022,4,9,Control,,north,4_9
+10/19/2022,4,10,Marine Debris,43.84,north,4_10
+10/19/2022,4,10,Marine Debris,23.1,north,4_10
+10/19/2022,4,10,Rake,,north,4_10
+10/19/2022,4,10,Compact ,,north,4_10
+10/19/2022,4,10,Control,17.23,north,4_10
+10/19/2022,4,10,Control,7.72,north,4_10
+10/20/2022,5,1,Control,30.27,south,5_1
+10/20/2022,5,1,Compact ,15.42,south,5_1
+10/20/2022,5,1,Compact ,11.59,south,5_1
+10/20/2022,5,1,Rake,,south,5_1
+10/20/2022,5,1,Marine Debris,,south,5_1
+10/20/2022,5,2,Control,32.09,south,5_2
+10/20/2022,5,2,Control,10.59,south,5_2
+10/20/2022,5,2,Control,8.42,south,5_2
+10/20/2022,5,2,Control,26.57,south,5_2
+10/20/2022,5,2,Compact ,,south,5_2
+10/20/2022,5,2,Rake,11.46,south,5_2
+10/20/2022,5,2,Rake,14.48,south,5_2
+10/20/2022,5,2,Marine Debris,12.55,south,5_2
+10/20/2022,5,3,Control,42.97,south,5_3
+10/20/2022,5,3,Control,28.12,south,5_3
+10/20/2022,5,3,Compact ,16.09,south,5_3
+10/20/2022,5,3,Rake,,south,5_3
+10/20/2022,5,3,Marine Debris,31.25,south,5_3
+10/20/2022,5,3,Marine Debris,11.09,south,5_3
+10/20/2022,5,3,Marine Debris,13.2,south,5_3
+10/20/2022,5,3,Marine Debris,44.19,south,5_3
+10/20/2022,5,4,Control,10.54,south,5_4
+10/20/2022,5,4,Control,7.35,south,5_4
+10/20/2022,5,4,Compact ,12.28,south,5_4
+10/20/2022,5,4,Rake,,south,5_4
+10/20/2022,5,4,Marine Debris,31.18,south,5_4
+10/20/2022,5,4,Marine Debris,29.73,south,5_4
+10/20/2022,5,5,Control,,south,5_5
+10/20/2022,5,5,Rake,21.02,south,5_5
+10/20/2022,5,5,Marine Debris,11.17,south,5_5
+10/20/2022,5,6,Control,6.78,north,5_6
+10/20/2022,5,6,Control,9.24,north,5_6
+10/20/2022,5,6,Control,34.28,north,5_6
+10/20/2022,5,6,Compact ,31,north,5_6
+10/20/2022,5,6,Rake,10.75,north,5_6
+10/20/2022,5,6,Rake,8.15,north,5_6
+10/20/2022,5,6,Rake,11.13,north,5_6
+10/20/2022,5,6,Marine Debris,29.74,north,5_6
+10/20/2022,5,6,Marine Debris,22.43,north,5_6
+10/20/2022,5,6,Marine Debris,12.74,north,5_6
+10/20/2022,5,7,Control,15.31,north,5_7
+10/20/2022,5,7,Control,24.31,north,5_7
+10/20/2022,5,7,Control,19.22,north,5_7
+10/20/2022,5,7,Control,9.98,north,5_7
+10/20/2022,5,7,Compact ,26.23,north,5_7
+10/20/2022,5,7,Rake,,north,5_7
+10/20/2022,5,7,Marine Debris,34.34,north,5_7
+10/20/2022,5,7,Marine Debris,29.74,north,5_7
+10/20/2022,5,8,Control,24.64,north,5_8
+10/20/2022,5,8,Control,40.69,north,5_8
+10/20/2022,5,8,Compact ,11.64,north,5_8
+10/20/2022,5,8,Compact ,26.97,north,5_8
+10/20/2022,5,8,Rake,,north,5_8
+10/20/2022,5,8,Marine Debris,9.78,north,5_8
+10/20/2022,5,8,Marine Debris,8.47,north,5_8
+10/20/2022,5,8,Marine Debris,12.19,north,5_8
+10/20/2022,5,9,Control,34.27,north,5_9
+10/20/2022,5,9,Control,11.24,north,5_9
+10/20/2022,5,9,Control,28.46,north,5_9
+10/20/2022,5,9,Control,5.05,north,5_9
+10/20/2022,5,9,Compact ,23.02,north,5_9
+10/20/2022,5,9,Rake,38.13,north,5_9
+10/20/2022,5,9,Rake,38.53,north,5_9
+10/20/2022,5,9,Rake,38.7,north,5_9
+10/20/2022,5,9,Rake,26.01,north,5_9
+10/20/2022,5,9,Rake,54.16,north,5_9
+10/20/2022,5,9,Marine Debris,36.61,north,5_9
+10/20/2022,5,9,Marine Debris,20.21,north,5_9
+10/20/2022,5,9,Marine Debris,15.78,north,5_9
+10/20/2022,5,9,Marine Debris,9.25,north,5_9
+10/20/2022,5,9,Marine Debris,7.83,north,5_9
+10/20/2022,5,9,Marine Debris,10.86,north,5_9
+10/20/2022,5,10,Control,46.07,north,5_10
+10/20/2022,5,10,Compact ,,north,5_10
+10/20/2022,5,10,Rake,20.29,north,5_10
+10/20/2022,5,10,Marine Debris,11.62,north,5_10
+10/20/2022,5,10,Marine Debris,21.3,north,5_10
+10/21/2022,6,1,Marine Debris,21.64,south,6_1
+10/21/2022,6,1,Marine Debris,16.81,south,6_1
+10/21/2022,6,1,Marine Debris,8.16,south,6_1
+10/21/2022,6,1,Rake,29.75,south,6_1
+10/21/2022,6,1,Compact ,6.53,south,6_1
+10/21/2022,6,1,Compact ,25.52,south,6_1
+10/21/2022,6,1,Control,28.67,south,6_1
+10/21/2022,6,1,Control,6.57,south,6_1
+10/21/2022,6,2,Marine Debris,8.85,south,6_2
+10/21/2022,6,2,Marine Debris,31.35,south,6_2
+10/21/2022,6,2,Rake,23.39,south,6_2
+10/21/2022,6,2,Compact ,6.69,south,6_2
+10/21/2022,6,2,Compact ,4.57,south,6_2
+10/21/2022,6,2,Control,9.6,south,6_2
+10/21/2022,6,2,Control,4.98,south,6_2
+10/21/2022,6,2,Control,23.92,south,6_2
+10/21/2022,6,2,Control,11.86,south,6_2
+10/21/2022,6,2,Control,13.4,south,6_2
+10/21/2022,6,2,Control,29.72,south,6_2
+10/21/2022,6,3,Marine Debris,14.91,south,6_3
+10/21/2022,6,3,Marine Debris,35.44,south,6_3
+10/21/2022,6,3,Marine Debris,10.31,south,6_3
+10/21/2022,6,3,Marine Debris,29.31,south,6_3
+10/21/2022,6,3,Marine Debris,50.84,south,6_3
+10/21/2022,6,3,Marine Debris,15.41,south,6_3
+10/21/2022,6,3,Rake,54.6,south,6_3
+10/21/2022,6,3,Compact ,7.33,south,6_3
+10/21/2022,6,3,Compact ,19.65,south,6_3
+10/21/2022,6,3,Control,53.97,south,6_3
+10/21/2022,6,3,Control,20.71,south,6_3
+10/21/2022,6,3,Control,25.51,south,6_3
+10/21/2022,6,3,Control,9.17,south,6_3
+10/21/2022,6,4,Marine Debris,6.05,south,6_4
+10/21/2022,6,4,Marine Debris,6.57,south,6_4
+10/21/2022,6,4,Marine Debris,21.51,south,6_4
+10/21/2022,6,4,Marine Debris,33.61,south,6_4
+10/21/2022,6,4,Rake,10.02,south,6_4
+10/21/2022,6,4,Rake,14.95,south,6_4
+10/21/2022,6,4,Compact ,11.65,south,6_4
+10/21/2022,6,4,Compact ,7.27,south,6_4
+10/21/2022,6,4,Control,20.95,south,6_4
+10/21/2022,6,5,Marine Debris,,south,6_5
+10/21/2022,6,5,Rake,,south,6_5
+10/21/2022,6,5,Compact ,49.41,south,6_5
+10/21/2022,6,5,Compact ,17.16,south,6_5
+10/21/2022,6,5,Control,6.59,south,6_5
+10/21/2022,6,5,Control,9.77,south,6_5
+10/21/2022,6,5,Control,13.03,south,6_5
+10/21/2022,6,6,Marine Debris,26.41,north,6_6
+10/21/2022,6,6,Marine Debris,18.47,north,6_6
+10/21/2022,6,6,Marine Debris,18.91,north,6_6
+10/21/2022,6,6,Marine Debris,7.93,north,6_6
+10/21/2022,6,6,Rake,11.5,north,6_6
+10/21/2022,6,6,Rake,7.35,north,6_6
+10/21/2022,6,6,Rake,21.17,north,6_6
+10/21/2022,6,6,Rake,41.52,north,6_6
+10/21/2022,6,6,Compact ,18.48,north,6_6
+10/21/2022,6,6,Control,16.48,north,6_6
+10/21/2022,6,6,Control,34.18,north,6_6
+10/21/2022,6,6,Control,8.39,north,6_6
+10/21/2022,6,6,Control,13.47,north,6_6
+10/21/2022,6,6,Control,13.84,north,6_6
+10/21/2022,6,7,Marine Debris,29,north,6_7
+10/21/2022,6,7,Marine Debris,8.55,north,6_7
+10/21/2022,6,7,Marine Debris,39.19,north,6_7
+10/21/2022,6,7,Marine Debris,12.1,north,6_7
+10/21/2022,6,7,Rake,9.19,north,6_7
+10/21/2022,6,7,Rake,20.61,north,6_7
+10/21/2022,6,7,Rake,22.22,north,6_7
+10/21/2022,6,7,Rake,7.79,north,6_7
+10/21/2022,6,7,Compact ,,north,6_7
+10/21/2022,6,7,Control,15.48,north,6_7
+10/21/2022,6,7,Control,24.54,north,6_7
+10/21/2022,6,7,Control,30.02,north,6_7
+10/21/2022,6,8,Marine Debris,,north,6_8
+10/21/2022,6,8,Rake,10.37,north,6_8
+10/21/2022,6,8,Compact ,8.37,north,6_8
+10/21/2022,6,8,Compact ,31.4,north,6_8
+10/21/2022,6,8,Compact ,17.34,north,6_8
+10/21/2022,6,8,Control,49.12,north,6_8
+10/21/2022,6,8,Control,19.85,north,6_8
+10/21/2022,6,9,Marine Debris,8.27,north,6_9
+10/21/2022,6,9,Marine Debris,10.89,north,6_9
+10/21/2022,6,9,Marine Debris,8.38,north,6_9
+10/21/2022,6,9,Marine Debris,15.82,north,6_9
+10/21/2022,6,9,Rake,42.79,north,6_9
+10/21/2022,6,9,Rake,19.19,north,6_9
+10/21/2022,6,9,Rake,35.33,north,6_9
+10/21/2022,6,9,Compact ,22.43,north,6_9
+10/21/2022,6,9,Control,8.91,north,6_9
+10/21/2022,6,9,Control,28.97,north,6_9
+10/21/2022,6,10,Marine Debris,18.78,north,6_10
+10/21/2022,6,10,Marine Debris,28.39,north,6_10
+10/21/2022,6,10,Marine Debris,27.23,north,6_10
+10/21/2022,6,10,Marine Debris,16.2,north,6_10
+10/21/2022,6,10,Marine Debris,25.33,north,6_10
+10/21/2022,6,10,Rake,,north,6_10
+10/21/2022,6,10,Compact ,29.89,north,6_10
+10/21/2022,6,10,Control,10.14,north,6_10
