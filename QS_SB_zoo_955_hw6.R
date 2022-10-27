@@ -47,9 +47,62 @@ mlme1 <- lme(burrow_count ~ mean_burrow_diameter, random = ~1 | replicate,
 summary(mlme1)
 
 #Simulating the data - the actual homework 
-summary(test_sim_data)
-bur_count <- test_sim_data$burrow_count
-var(bur_count)
-bur_diameter <-test_sim_data$mean_burrow_diameter
-var(bur_diameter)
-#Sweet, so here's our two variances 
+#To make things easier let's just focus on burrow count 
+summary(test_sim_data2)
+bur_count1 <- filter(test_sim_data2, group =="1")
+bur_count2 <- filter(test_sim_data2, group =="2")
+bur_count3 <- filter(test_sim_data2, group =="3")
+bur_count4 <- filter(test_sim_data2, group =="4")
+bur_count5 <- filter(test_sim_data2, group =="5")
+
+
+bur_count1v <- bur_count1$burrow_count
+var(bur_count1v)
+summary(bur_count1)
+
+bur_count2v <- bur_count2$burrow_count
+var(bur_count2v)
+summary(bur_count2)
+
+bur_count3v <- bur_count3$burrow_count
+var(bur_count3v)
+summary(bur_count3)
+
+bur_count4v <- bur_count4$burrow_count
+var(bur_count4v)
+summary(bur_count4)
+
+bur_count5v <- bur_count5$burrow_count
+var(bur_count5v)
+summary(bur_count5)
+
+#set regression coefficients
+beta0 <- 1
+beta1 <- 2
+
+
+#Some baseline simulation of data 
+x1=rnorm(1000,7.875,9.90)
+x2=rnorm(1000,22.23, 33.17)
+error=rnorm(1000,0,0.5)
+#Generate the dependent variable (b0=1, b1=2, b2=3)
+y1=beta0+(beta1*x1)+(beta2*x2)+error
+#create the model
+m1=lm(y1~x1+x2)
+summary(m1)
+plot(m1)
+
+
+df<- data.frame(matrix(ncol=2, nrow=1000))
+colnames(df)<- c("bur_count","bur_diameter")
+
+for(i in 1:nrow(df)){
+  #run function over 5 n levels and store probs for two model types as a list
+  list<- (df$n[i])
+  #extract first probability in list
+  df$bur_count[i]<- as.numeric(unlist(list[1]))
+  #extract second probability in list
+ df$bur_diameter[i]<- as.numeric(unlist(list[2]))
+}
+
+
