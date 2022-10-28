@@ -2,7 +2,7 @@
 #QS and SB HW6 - simulation 
 #Trying this out with some data from Sapelo ghost crab burrows 
 #10 total replicates, 4 plots (treatments) per replicate 
-#5 replicates in north(cut dunes, sharp transition), 5 in south (dune transition)
+#5 replicates in north(cut dunes, sharp transition), 5 in south (dune transition) - Not using this yet - 
 
 library(tidyverse)
 head(gc_dia_r)
@@ -15,6 +15,7 @@ hist(bd)
 #We can work up from here if everything works 
 #We'll start by making a linear model, grabbing the beta's and sigma squared, then building the sim 
 #Let's look at the data 
+#Import dataset 
 
 summary(test_sim_data)
 #This can also give us min and max so we know what values we're looking to be within 
@@ -37,7 +38,7 @@ fset <- factor(c(0,0,0,0,0,1,1,1,1,1))
 
 lm1 <- lm(Beta~fset)
 summary(lm1)
-#So it looks like north/south does not have an influence on burrow density/diamater in each plot 
+#So it looks like north/south does not have an influence on burrow density/diameter in each plot 
 #Let's move onto a Linear mixed effects model 
 
 library(nlme)
@@ -60,7 +61,7 @@ replicates <- unique(test_sim_data$replicate)
 n <- 1000 # Number of values per simulation
 num_simulations <- 100
 
-# Prepare an empty data frmae to store simulation outputs
+# Prepare an empty data frame to store simulation outputs
 df <- data.frame(matrix(ncol=1, nrow=num_simulations))
 names(df) <- c('sim_burrow_count')
 
@@ -75,24 +76,124 @@ for(i in 1:nrow(df)) {
   simulated_mod1 <- gls(burrows ~ 1 + replicate_site,
                          method = "REML", data = simulated_data)
   
-  # Extract p-value and store
+  # Extract values and store
   df[i,1] <- summary(simulated_mod1)$tTable[2,4]
 }
 
-#Our data is way too low though (given observed burrow counts), is it bound by 1? 
+#Other groups had used the gls, but maybe that's not appropriate here 
+
+####ATTEMPT 2####
+
+#Let's try again to simulate both 
+# Extract the values needed to create simulation data from the actual data
+
+burrow_dia_mean <- mean(test_sim_data$mean_burrow_diameter)
+burrow_dia_sd <- sd(test_sim_data$mean_burrow_diameter)
+burrow_count_mean <- mean(test_sim_data$burrow_count)
+burrow_count_sd <- sd(test_sim_data$burrow_count)
+counts <- unique(test_sim_data$burrow_count)
+
+# Generate simulation data using random values from a distributions
+
+n <- 1000 # Number of values per simulation
+num_simulations <- 100
+
+# Prepare an empty data frmae to store simulation outputs
+df <- data.frame(matrix(ncol=1, nrow=num_simulations))
+names(df) <- c('sim_burrow_dia')
+
+for(i in 1:nrow(df)) {
+  
+  # Create simulated data
+  simulated_data <- data.frame(
+    counts = sample(counts, n, replace=T), 
+    burrow_dia = rnorm(n, mean=burrow_dia_mean, sd = burrow_dia_sd))
+  
+  # Generate model using simulation data
+  simulated_mod1 <- gls(burrow_dia ~ 1 + counts,
+                        method = "REML", data = simulated_data)
+  
+  # Extract value and store
+  df[i,1] <- summary(simulated_mod1)$tTable[2,4]
+}
 
 
+#### ATTEMPT 3 ####
+#Let's mix up the model we use
 
 
+burrow_dia_mean <- mean(test_sim_data$mean_burrow_diameter)
+burrow_dia_sd <- sd(test_sim_data$mean_burrow_diameter)
+burrow_count_mean <- mean(test_sim_data$burrow_count)
+burrow_count_sd <- sd(test_sim_data$burrow_count)
+counts <- unique(test_sim_data$burrow_count)
+
+# Generate simulation data using random values from a distributions
+
+n <- 100 # Number of values per simulation
+num_simulations <- 10
+
+# Prepare an empty data frmae to store simulation outputs
+df <- data.frame(matrix(ncol=1, nrow=num_simulations))
+names(df) <- c('sim_burrow_dia')
+
+for(i in 1:nrow(df)) {
+  
+  # Create simulated data
+  simulated_data <- data.frame(
+    counts = sample(counts, n, replace=T), 
+    burrow_dia = rnorm(n, mean=burrow_dia_mean, sd = burrow_dia_sd))
+  
+  # Generate model using simulation data
+  simulated_mod1 <- lme(burrow_count ~ mean_burrow_diameter, random = ~1 | replicate,
+                        data = test_sim_data)
+  
+  # Extract value and store
+  df[i,1] <- summary(simulated_mod1)$tTable[2,4]
+}
+
+#With this code it calculates the same thing every simulation???
+#Does the lme cause this? 
+
+#### ATTEMPT 4####
+
+n <- 100 # Number of values per simulation
+num_simulations <- 10
+
+# Prepare an empty data frmae to store simulation outputs
+df <- data.frame(matrix(ncol=1, nrow=num_simulations))
+names(df) <- c('sim_burrow_dia')
+
+for(i in 1:nrow(df)) {
+  
+  # Create simulated data
+  simulated_data <- data.frame(
+    counts = sample(counts, n, replace=T), 
+    burrow_dia = rnorm(n, mean=burrow_dia_mean, sd = burrow_dia_sd))
+  
+  # Generate model using simulation data
+  simulated_mod1 <- lm(burrow_count ~ mean_burrow_diameter,
+                       data=test_sim_data)
+  
+  # Extract value and store
+  df[i,1] <- summary(simulated_mod1)$tTable[2,4]
+}
+
+#Something is very wrong here 
 
 #### Frankenstein Code ####
+
+#Trying to simulate this another way 
+#set regression coefficients
+beta0 <- 1
+beta1 <- 2
 
 #Some baseline simulation of data (2 variables, maybe bail on this )
 x1=rnorm(1000,7.875,9.90)
 x2=rnorm(1000,22.23, 33.17)
 error=rnorm(1000,0,0.5)
 #Generate the dependent variable (b0=1, b1=2, b2=3)
-y1=beta0+(beta1*x1)+(beta2*x2)+error
+y1=beta0+(beta1*x1)+(beta1*x2)+error
 #create the model
 m1=lm(y1~x1+x2)
 summary(m1)
@@ -141,6 +242,4 @@ bur_count5v <- bur_count5$burrow_count
 var(bur_count5v)
 summary(bur_count5)
 
-#set regression coefficients
-beta0 <- 1
-beta1 <- 2
+
