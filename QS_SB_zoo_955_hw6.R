@@ -53,3 +53,99 @@ var(bur_count)
 bur_diameter <-test_sim_data$mean_burrow_diameter
 var(bur_diameter)
 #Sweet, so here's our two variances 
+
+
+
+#burrow count Min = 4, Mean = 7.875, Max = 17
+df <- data.frame(matrix(ncol = 2, nrow=1000))
+colnames(df)<-c("bur_count", "bur_diameter")
+
+#set regression coefficients
+
+beta0 <- 1
+beta1 <- 2
+
+
+#make a function to simulate data, run models, and calculate probability of rejecting null
+e1 = rnorm(1000, 7.875, 9.9)
+e2 = rnorm(1000, 22.23, 33.17)
+error = rnorm(1000, 0, 0.5)
+
+y1 = beta0+(beta1*e1)+(beta2*e2)+error
+
+m1 = lm(y1~e1+e2)
+summary(m1)
+plot(m1)
+
+
+df$bur_count <- m1[[5]]
+
+for(i in 1:nrow(df)){
+ 
+  
+}
+########################Sean messing around
+
+#Commented out because this is all in the sim function below, left because I think its easier to follow here
+# nsite = 10
+# nplot = 4 
+# mean of burrow count
+# mu.bur = mean(bur_count)
+# standard deviation of burrow count
+# sd.bur = sd(bur_count)
+# variance of burrow count
+# var.bur = var(bur_count)
+# 
+# site = rep(LETTERS[1:nsite], each = nplot) 
+# plot = letters[1:(nstand*nplot)]
+# 
+# site.eff = rnorm(nsite, mu.plot, sd.plot)
+# site.eff = rep(site.eff, each = nplot) 
+# 
+# plot.eff = rnorm(nsite*nplot, mu.plot, sd.plot)
+# 
+# dat = data.frame(site, site.eff, plot, plot.eff)
+
+
+sim = function(nsite = 10, nplot = 4, mu = mean(bur_count), sigma_s = sd(bur_count), sigma = var(bur_count)){
+  #calculate site effects by running r norm for a given site with mu and sigma define above
+  #Rep function repeats the rnorm calculation for ethe number of plots 
+  site.eff = rep( rnorm(nsite, mu, sigma_s), each = nplot)
+  #Applies captial letter identifiers to each of the 10 sites
+  site = rep(LETTERS[1:nsite], each = nplot)
+  #Runs rnorm again but this time for each plot individually 
+  plot.eff = rnorm(nsite*nplot, mu, sigma)
+  #Creates a response category based off of the equation yt=μ+(bs)t+ϵt 
+  resp = mu + site.eff + plot.eff
+  dat = data.frame(site, resp)
+  #runs a lme off of the resp variable using Site as the random 
+  lme(resp ~ 1, random = ~1|site, data = dat)
+}
+
+#Creates a data frame to house infromation from each simulation, nrow determines number of times run
+df <- data.frame(matrix(ncol = 3, nrow=100))
+colnames(df)<-c("fixed.eff", "random.eff", "p.value")
+#Used for tidy funciton in for loop, useful for extracting value from list
+library(broom.mixed)
+for (i in 1:nrow(df)){
+  #Defines 1 simulation run for each loop, otherwise simu would re-run multiple times in the same loop
+  s <- sim()
+  #extracts fixed effects from simulation
+  fixed <- tidy(s, effects = "fixed")
+  #extracts random effects from simulation
+  random <- tidy(s, effects = "ran_pars", scales = "vcov")
+  #pulls values for each column
+  df$fixed.eff[i] <- fixed$estimate[1]
+  df$random.eff[i] <- random$estimate[1]
+  df$p.value[i] <- fixed$p.value[1]
+}
+
+
+
+
+
+
+
+
+
+
