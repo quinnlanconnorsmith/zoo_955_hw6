@@ -84,7 +84,7 @@ for(i in 1:nrow(df)){
  
   
 }
-########################Sean messing around
+
 
 #Commented out because this is all in the sim function below, left because I think its easier to follow here
 # nsite = 10
